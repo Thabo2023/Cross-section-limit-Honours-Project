@@ -1,2 +1,2 @@
 # Cross-section limit -> Honours Project
-Shows limits for the cross-sections against a set of Dark Matter masses and the relic cross-section.
+Shows limits for the Dark matter cross-sections against a set of masses and also shows the relic cross-section.
